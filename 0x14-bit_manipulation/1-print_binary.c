@@ -1,7 +1,7 @@
 /*
  * File_name: 1-print_binary.c
  * date: 4th of may, 2023
- * owner: imo prince 
+ * owner: imo prince
  * size: undefined
  * Project: alx-low_level_programming
  * Status: submitted.
