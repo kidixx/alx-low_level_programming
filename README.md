@@ -1,0 +1,1 @@
+Manipulating a function is the process of altering its equation to move the graph's position on the coordinate plane. There are lots of ways to manipulate functions. Let's start by discussing translations. Translating the graph of a function means the entire graph shifts vertically or horizontally
