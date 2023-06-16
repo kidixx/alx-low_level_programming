@@ -1,9 +1,3 @@
-/**
- * My mtask for 0-print_dlistint
- *
- * all done
- */
-
 #include "lists.h"
 
 /**
